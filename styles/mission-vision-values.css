@@ -1,22 +1,22 @@
 /* public/styles.css */
 @font-face {
   font-family: "Inika";
-  src: url("/public/fonts/Inika-Regular.ttf") format("truetype"),
-    url("/public/fonts/Inika-Bold.ttf") format("truetype");
+  src: url("public/fonts/Inika-Regular.ttf") format("truetype"),
+    url("public/fonts/Inika-Bold.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "InkFree";
-  src: url("/public/fonts/Inkfree.ttf") format("truetype");
+  src: url("public/fonts/Inkfree.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Inconsolata";
-  src: url("/public/fonts/Inconsolata-VariableFont_wdth\,wght.ttf")
+  src: url("public/fonts/Inconsolata-VariableFont_wdth\,wght.ttf")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -24,9 +24,9 @@
 
 @font-face {
   font-family: "Manjari";
-  src: url("/public/fonts/Manjari/Manjari-Thin.ttf") format("truetype"),
-    url("/public/fonts/Manjari/Manjari-Regular.ttf") format("truetype"),
-    url("/public/fonts/Manjari/Manjari-Bold.ttf") format("truetype");
+  src: url("public/fonts/Manjari/Manjari-Thin.ttf") format("truetype"),
+    url("public/fonts/Manjari/Manjari-Regular.ttf") format("truetype"),
+    url("public/fonts/Manjari/Manjari-Bold.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -47,7 +47,7 @@
   width: 100%;
   height: 200%;
   position: fixed;
-  background-image: url(/public/images/mission-background.png);
+  background-image: url(public/images/mission-background.png);
   background-size: cover; /* Makes the image cover the entire area */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center; /* Centers the image */
