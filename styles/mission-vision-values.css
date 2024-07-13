@@ -1,8 +1,8 @@
 /* public/styles.css */
 @font-face {
   font-family: "Inika";
-  src: url("../public/fonts/Inika-Regular.ttf") format("truetype"),
-    url("../public/fonts/Inika-Bold.ttf") format("truetype");
+  src: url("../public/fonts/Inika-Regular.woff") format("woff"),
+    url("../public/fonts/Inika-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
