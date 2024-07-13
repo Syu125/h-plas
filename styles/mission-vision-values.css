@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Inconsolata";
-  src: url("public/fonts/Inconsolata-VariableFont_wdth\,wght.woff2")
+  src: url("../public/fonts/Inconsolata-VariableFont_wdth\,wght.woff2")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -24,9 +24,9 @@
 
 @font-face {
   font-family: "Manjari";
-  src: url("public/fonts/Manjari/Manjari-Thin.woff2") format("truetype"),
-    url("public/fonts/Manjari/Manjari-Regular.woff2") format("truetype"),
-    url("public/fonts/Manjari/Manjari-Bold.woff2") format("truetype");
+  src: url("../public/fonts/Manjari/Manjari-Thin.woff2") format("truetype"),
+    url("../public/fonts/Manjari/Manjari-Regular.woff2") format("truetype"),
+    url("../public/fonts/Manjari/Manjari-Bold.woff2") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -47,7 +47,7 @@
   width: 100%;
   height: 200%;
   position: fixed;
-  background-image: url("public/images/mission-background.png");
+  background-image: url("../public/images/mission-background.png");
   background-size: cover; /* Makes the image cover the entire area */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center; /* Centers the image */
