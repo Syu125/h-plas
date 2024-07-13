@@ -1,8 +1,8 @@
 /* public/styles.css */
 @font-face {
   font-family: "Inika";
-  src: url("../public/fonts/Inika-Regular.woff") format("woff"),
-    url("../public/fonts/Inika-Bold.woff") format("woff");
+  src: url("../public/fonts/Inika-Regular.woff2") format("woff2"),
+    url("../public/fonts/Inika-Bold.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Inconsolata";
-  src: url("public/fonts/Inconsolata-VariableFont_wdth\,wght.ttf")
+  src: url("public/fonts/Inconsolata-VariableFont_wdth\,wght.woff2")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -24,9 +24,9 @@
 
 @font-face {
   font-family: "Manjari";
-  src: url("public/fonts/Manjari/Manjari-Thin.ttf") format("truetype"),
-    url("public/fonts/Manjari/Manjari-Regular.ttf") format("truetype"),
-    url("public/fonts/Manjari/Manjari-Bold.ttf") format("truetype");
+  src: url("public/fonts/Manjari/Manjari-Thin.woff2") format("truetype"),
+    url("public/fonts/Manjari/Manjari-Regular.woff2") format("truetype"),
+    url("public/fonts/Manjari/Manjari-Bold.woff2") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
