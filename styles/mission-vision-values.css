@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "InkFree";
-  src: url("public/fonts/Inkfree.ttf") format("truetype");
+  src: url("public/fonts/Inkfree.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
