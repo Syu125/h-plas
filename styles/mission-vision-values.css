@@ -61,9 +61,10 @@
   padding-left: 50px;
   padding-right: 50px;
   overflow: auto;
-  background-color: rgba(255, 255, 255, 0.3);
-  background-image: linear-gradient(to right, transparent 20%, #ffa866),
-    linear-gradient(135deg, transparent 20%, #ff7991);
+  background-color: rgba(4, 142, 163, 0.3);
+  background-image: linear-gradient(to right, transparent 20%, #ffa662 100%),
+    linear-gradient(150deg, transparent 20%, #f29ac6),
+    linear-gradient(20deg, transparent 20%, #77e5ef);
   border-radius: 30px;
   border: 5px solid white;
   box-shadow: 0px 0px 80px rgba(4, 142, 163, 0.4);
@@ -80,6 +81,7 @@
   color: white;
   font-size: 40px;
   font-weight: 200px;
+  text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
 }
 
 .paragraph-subtitle {
